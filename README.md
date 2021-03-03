@@ -1,5 +1,9 @@
 # Substrate Galital Node :rocket:
 
+<p align="center">
+  <img src="https://galital.com/wp-content/uploads/2021/02/logo-site.png">
+</p>
+
 ### Run
 
 Use Rust's native `cargo` command to build and launch the template node:
